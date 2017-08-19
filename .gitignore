@@ -6,3 +6,4 @@
 *.pkl 
 
 */.floyd*
+.floydexpt
