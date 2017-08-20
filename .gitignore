@@ -4,6 +4,6 @@
 *.pyc
 *.p
 *.pkl 
-
+cifar-10*
 */.floyd*
 .floydexpt
