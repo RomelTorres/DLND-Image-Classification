@@ -14,7 +14,7 @@ If you want to run the notebook on your own (using anaconda)
     jupyter notebook dlnd_image_classification.ipynb
 ```
 
-The notebook is also rendered by github, so you can simply  click on the file Your_first_neural_network.ipynb here and you will see my results.
+The notebook is also rendered by github, so you can simply  click on the file dlnd_image_classification.ipynb here and you will see my results.
 
 
 ## Running the project on floydhub.com
